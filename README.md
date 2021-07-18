@@ -43,6 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Desafio #1: Ecommerce
 
+-Desafio - Criar um sistema de e-commerce para cadastro de email na landing page para recebimento de novidades e promoções.
 -Como colocar uma loja online? Site Oficial / Landing page
 
 1° Entrega 
