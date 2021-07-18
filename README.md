@@ -61,8 +61,3 @@ Entregáveis:
 -Dados no localstorage
 
 - >Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
-
-
-
-Bora lá? Então valendo! Esse desafio é individual, mas incentivamos que vocês troquem links entre si para feedbacks dos colegas <3
-
